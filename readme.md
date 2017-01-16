@@ -14,4 +14,8 @@ Simply type `tldr` and `space`, then follow by the command you want to check.
 
 Add the package to your plugins array in `./zazurc.js`.
 
-'twang2218/zazu-tldr'
+```json
+"plugins": [
+  "twang2218/zazu-tldr",
+ ]
+ ````
