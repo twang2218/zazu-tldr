@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="196"
+   height="196"
+   viewBox="0 0 196 196"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="tldr.svg"
+   inkscape:export-filename="/Users/taowang/lab/node.js/zazu/docs/images/package-icons/tldr.png"
+   inkscape:export-xdpi="235.10001"
+   inkscape:export-ydpi="235.10001">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="116.65309"
+     inkscape:cy="54.012755"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1136"
+     inkscape:window-height="944"
+     inkscape:window-x="531"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     units="px"
+     width="196px"
+     borderlayer="false"
+     inkscape:showpageshadow="true" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-nc/3.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-nc/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:prohibits
+           rdf:resource="http://creativecommons.org/ns#CommercialUse" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-856.3622)">
+    <circle
+       style="fill:#3e2723;fill-opacity:1"
+       id="path4272"
+       cx="98.489876"
+       cy="-953.34698"
+       r="97.479721"
+       transform="scale(1,-1)" />
+    <flowRoot
+       inkscape:export-ydpi="235.10001"
+       inkscape:export-xdpi="235.10001"
+       transform="matrix(0.59569543,0,0,0.59569543,-76.741078,819.61437)"
+       style="font-style:normal;font-weight:normal;font-size:70px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot4345"
+       xml:space="preserve"><flowRegion
+         id="flowRegion4347"><rect
+           style="font-size:70px;letter-spacing:0px;fill:#000000;fill-opacity:1"
+           y="158.07649"
+           x="140"
+           height="234.28572"
+           width="531.42859"
+           id="rect4349" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:70px;font-family:'Anonymous Pro';-inkscape-font-specification:'Anonymous Pro';letter-spacing:0px;fill:#212121;fill-opacity:1"
+         id="flowPara4351"><flowSpan
+           id="flowSpan4353"
+           style="font-size:83.93550873px;fill:#212121;fill-opacity:1;-inkscape-font-specification:'Anonymous Pro Bold';font-family:'Anonymous Pro';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal">&gt;</flowSpan><flowSpan
+           id="flowSpan4355"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:83.72638702px;font-family:'Anonymous Pro';-inkscape-font-specification:'Anonymous Pro Bold';fill:#212121;fill-opacity:1"><flowSpan
+             id="flowSpan4357"
+             style="font-size:95.56919098px;fill:#212121;fill-opacity:1">tldr</flowSpan><flowSpan
+             id="flowSpan4359"
+             style="font-size:38.44028091px;fill:#212121;fill-opacity:0">.</flowSpan></flowSpan><flowSpan
+           id="flowSpan4361"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Anonymous Pro';-inkscape-font-specification:'Anonymous Pro Bold';opacity:0.97000002;fill:#212121;fill-opacity:1">_</flowSpan></flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3336"
+       style="font-style:normal;font-weight:normal;font-size:70px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(0.59569543,0,0,0.59569543,-76.741078,817.61437)"
+       inkscape:export-xdpi="235.10001"
+       inkscape:export-ydpi="235.10001"><flowRegion
+         id="flowRegion3338"><rect
+           id="rect3340"
+           width="531.42859"
+           height="234.28572"
+           x="140"
+           y="158.07649"
+           style="font-size:70px;letter-spacing:0px" /></flowRegion><flowPara
+         id="flowPara3342"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:70px;font-family:'Anonymous Pro';-inkscape-font-specification:'Anonymous Pro';letter-spacing:0px"><flowSpan
+           style="font-size:83.93550873px;fill:#f06292;fill-opacity:1;-inkscape-font-specification:'Anonymous Pro Bold';font-family:'Anonymous Pro';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+           id="flowSpan3386">&gt;</flowSpan><flowSpan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:83.72638702px;font-family:'Anonymous Pro';-inkscape-font-specification:'Anonymous Pro Bold';fill:#7cb342;fill-opacity:1"
+           id="flowSpan3388"><flowSpan
+             style="font-size:95.56919098px"
+             id="flowSpan4315">tldr</flowSpan><flowSpan
+             style="font-size:38.44028091px;fill:#000000;fill-opacity:0"
+             id="flowSpan4313">.</flowSpan></flowSpan><flowSpan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Anonymous Pro';-inkscape-font-specification:'Anonymous Pro Bold';opacity:0.97000002;fill:#f5f5f5;fill-opacity:1"
+           id="flowSpan4230">_</flowSpan></flowPara></flowRoot>  </g>
+</svg>

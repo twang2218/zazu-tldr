@@ -2,6 +2,8 @@
 
 [![Build Status](https://travis-ci.org/twang2218/zazu-tldr.svg?branch=master)](https://travis-ci.org/twang2218/zazu-tldr)
 
+<img src="doc/image/tldr.png" width="64">
+
 Make [`tldr`](https://tldr-pages.github.io/)  easier to use with [Zazu](http://zazuapp.org/).
 
 ### Usage
