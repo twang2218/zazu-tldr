@@ -13,12 +13,18 @@ describe('tldr', () => {
     });
     it('should find doc for "rm"', (done) => {
       tldr('rm').then((results) => {
+        expect(results.length).to.be.above(0);
+        expect(results[0].title).to.not.include('not find');
+        expect(results.length).to.be.above(2);
         expect(results[1].title).to.include('another');
         done();
       }).catch(done);
     });
     it('should find doc "git rm"', (done) => {
       tldr('git rm').then((results) => {
+        expect(results.length).to.be.above(0);
+        expect(results[0].title).to.not.include('not find');
+        expect(results.length).to.be.above(2);
         expect(results[1].title).to.include('git rm file');
         done();
       }).catch(done);
